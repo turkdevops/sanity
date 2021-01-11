@@ -33,7 +33,7 @@ function AppProvider() {
       <div style={{padding: 20, margin: '0 auto', maxWidth: '40rem'}}>
         <h1>Error: Missing theme context</h1>
 
-        <p style={{lineHeight: '1.5'}}>
+        <p>
           This problem is usually caused by multiple versions of <code>@sanity/ui</code> in the same
           application.
         </p>
