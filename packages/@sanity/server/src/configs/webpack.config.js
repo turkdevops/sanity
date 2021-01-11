@@ -80,6 +80,8 @@ export default (config = {}) => {
       alias: {
         react: path.dirname(reactPath),
         'react-dom': path.dirname(reactDomPath),
+        '@sanity/ui': resolve('@sanity/ui'),
+        'styled-components': resolve('styled-components'),
         moment$: 'moment/moment.js',
         ...rxPaths(),
       },
