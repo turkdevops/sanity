@@ -28,7 +28,7 @@
     "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "@sanity/schema": "2.1.4",
+    "@sanity/schema": "2.5.0",
     "assert": "^1.4.1",
     "jest": "^26.4.2",
     "jsdom": "^12.0.0",
