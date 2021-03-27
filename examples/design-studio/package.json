@@ -18,7 +18,7 @@
     "design-studio"
   ],
   "dependencies": {
-    "@sanity/base": "2.1.6",
+    "@sanity/base": "2.6.0",
     "@sanity/cli": "2.1.4",
     "@sanity/core": "2.1.4",
     "@sanity/default-layout": "2.6.0",
