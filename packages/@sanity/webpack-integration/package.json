@@ -31,7 +31,7 @@
   },
   "homepage": "https://www.sanity.io/",
   "dependencies": {
-    "@sanity/resolver": "2.1.4",
+    "@sanity/resolver": "2.6.0",
     "@sanity/webpack-loader": "2.1.4",
     "dotenv": "^8.2.0",
     "fs.realpath": "^1.0.0",
