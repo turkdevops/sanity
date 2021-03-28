@@ -25,7 +25,7 @@
     "@sanity/base": "2.1.6",
     "@sanity/data-aspects": "2.1.4",
     "@sanity/diff": "2.1.4",
-    "@sanity/field": "2.1.6",
+    "@sanity/field": "2.6.0",
     "@sanity/form-builder": "2.1.6",
     "@sanity/generate-help-url": "2.1.4",
     "@sanity/mutator": "2.1.4",
